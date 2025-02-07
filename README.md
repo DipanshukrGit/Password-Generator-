@@ -4,7 +4,6 @@ A simple password generator built with HTML, CSS, and JavaScript.. This tool all
 
 ✅ Enter a website name and generate a strong password
 
-✅ Save multiple passwords without losing them on page reload
 
 ✅ Easy-to-use UI with responsive design
 
