@@ -1,4 +1,4 @@
-# Password-Generator-
+# Password-Generator
 A simple password generator built with HTML, CSS, and JavaScript.. This tool allows you to:
 
 
